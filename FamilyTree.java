@@ -3,6 +3,10 @@ import java.util.List;
 import java.util.HashMap;
 import java.util.Scanner;
 
+/*
+@Author Pramatma Ram
+@Website www.pramatma.com
+ */
 class Persion{
 
     private HashMap<String, List<Persion>> relations = null;
